@@ -6,7 +6,7 @@ public class revis {
 	}
 	public int process(int n){
 		if(n<2)
-		{return n;
+		{return 15;
 		}
 		else
 		{
